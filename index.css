@@ -1,0 +1,46 @@
+h1 {
+  background-image: url(./images/pattern.webp);
+  color: khaki;
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+}
+
+body {
+  font-family: helvetica;
+}
+
+h3 {
+  font-size: 32px;
+  color: white;
+  font-weight: bold;
+}
+
+.brushes-title {
+  background-color: mediumspringgreen;
+}
+
+.frames-title {
+  background-color: lightcoral;
+}
+
+.paint-title {
+  background-color: skyblue;
+}
+
+.Price-brush {
+  font-family: helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+.price-frame {
+  font-weight: bold;
+  color: blue;
+}
+
+.price-tube {
+  font-weight: bold;
+  color: blue;
+}
